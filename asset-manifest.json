@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/queens-board/static/css/main.0531502d.css",
-    "main.js": "/queens-board/static/js/main.30f874c3.js",
+    "main.js": "/queens-board/static/js/main.97337a44.js",
     "static/js/787.68a1ca3b.chunk.js": "/queens-board/static/js/787.68a1ca3b.chunk.js",
     "static/media/espe.png": "/queens-board/static/media/espe.42418c2e4a3facb57d93.png",
     "index.html": "/queens-board/index.html",
     "main.0531502d.css.map": "/queens-board/static/css/main.0531502d.css.map",
-    "main.30f874c3.js.map": "/queens-board/static/js/main.30f874c3.js.map",
+    "main.97337a44.js.map": "/queens-board/static/js/main.97337a44.js.map",
     "787.68a1ca3b.chunk.js.map": "/queens-board/static/js/787.68a1ca3b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0531502d.css",
-    "static/js/main.30f874c3.js"
+    "static/js/main.97337a44.js"
   ]
 }
